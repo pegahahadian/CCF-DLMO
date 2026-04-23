@@ -11,9 +11,6 @@ A PyTorch-based binary classifier with model d' to compare with CHO model d', an
 2. Run the training and evaluation:
     ```bash
     python KOppStyle.py
-3. Optional: On HPC,
-    ```bash
-    sbatch sbatch_train_dlmo.sh
 
 3. Outputs
     Trained models (*.pt)
