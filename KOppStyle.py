@@ -1,5 +1,5 @@
 # ============================================================
-This Project developed and designed by Pegah Ahadian on April 2026.
+# This Project developed and designed by Pegah Ahadian under supervision of Dr. Naveen Subhas, M.D on April 2026.
 # ============================================================
 # ============================================================
 # DL-MO: Binary detector + grouped AUC and d'
