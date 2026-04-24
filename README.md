@@ -28,3 +28,7 @@ A PyTorch-based binary classifier with model d' to compare with CHO model d', an
     matplotlib
     scikit-learn
     pandas
+
+
+
+## Developed by Pegah Ahadian, pahadian@kent.edu
